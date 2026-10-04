@@ -1,0 +1,6 @@
+{
+  "name": "ForgeInspira - Smart Fit & Fashion Platform",
+  "description": "Smart fashion eCommerce platform powered by Supabase with virtual body fit sizing, accurate size recommendations, and real-time database synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
